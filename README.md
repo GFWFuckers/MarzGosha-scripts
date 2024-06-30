@@ -1,13 +1,13 @@
-# Marzban-scripts
-Scripts for Marzban
+# MarzGosha-scripts
+Scripts for MarzGosha
 
 ## Install
-Install Marzban on your server using this command
+Install MarzGosha on your server using this command
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
+sudo bash -c "$(curl -sL https://github.com/GFWFuckers/MarzGosha-scripts/raw/master/marzgosha.sh)" @ install
 ```
 
-Or you can only install this script (marzban command) on your server by using this command
+Or you can only install this script (marzgosha command) on your server by using this command
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install-script
+sudo bash -c "$(curl -sL https://github.com/GFWFuckers/MarzGosha-scripts/raw/master/marzgosha.sh)" @ install-script
 ```
